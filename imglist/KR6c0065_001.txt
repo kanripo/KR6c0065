@@ -1,0 +1,5 @@
+001-0115b00	X 001-0115b	buddhist/X-xuzang/X25/01/X25-0115.png
+001-0115c00	X 001-0115c	buddhist/X-xuzang/X25/01/X25-0115.png
+001-0116a00	X 001-0116a	buddhist/X-xuzang/X25/01/X25-0116.png
+001-0116b00	X 001-0116b	buddhist/X-xuzang/X25/01/X25-0116.png
+001-0116c00	X 001-0116c	buddhist/X-xuzang/X25/01/X25-0116.png
